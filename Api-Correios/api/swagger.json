@@ -1,0 +1,20 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "API Correios",
+      "version": "1.0.0"
+    },
+    "paths": {
+      "/api/hello": {
+        "get": {
+          "summary": "Endpoint de saudação",
+          "responses": {
+            "200": {
+              "description": "Retorna uma saudação"
+            }
+          }
+        }
+      }
+    }
+  }
+  
